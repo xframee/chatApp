@@ -18,5 +18,8 @@
   "homepage": "https://github.com/xframee/chatApp#readme",
   "dependencies": {
     "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
